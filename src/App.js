@@ -31,6 +31,10 @@ const App = () => {
     },
   ];
 
+  const addExpenseHandler = (expense) => {
+    
+  };
+
   return (
     <div>
       <NewExpense />
